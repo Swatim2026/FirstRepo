@@ -4,3 +4,8 @@ z=20
 r=x+y+z
 print(r)
 print("Welcome")
+#----------------------
+x=10
+y=70
+r=x+y
+print(r)

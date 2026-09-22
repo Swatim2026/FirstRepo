@@ -1,6 +1,6 @@
-x=90
-y=100
-z=20
-r=x+y+z
-print(r)
 print("Welcome")
+a=10
+b=20
+c=a+b
+print(c)
+prit("This is the developer message")

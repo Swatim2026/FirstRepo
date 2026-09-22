@@ -1,10 +1,5 @@
-print("Welcome")
-a=10
-b=20
-c=a+b
-print(c)
-#----------------------
 p=10
 q=20
 r=p+q
 print(r)
+prit("This is the developer message")
